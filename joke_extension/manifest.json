@@ -1,0 +1,10 @@
+{
+  "name": "jokes",
+  "description": "Get a new joke Everyday",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "fav.png"
+  }
+}

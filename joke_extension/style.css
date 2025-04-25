@@ -1,0 +1,12 @@
+p {
+  padding: 10px;
+  font-size: 16px;
+  font-family: italic;
+  min-width: 100px;
+  width: 300px;
+  box-shadow: rgb(61, 52, 52) 0px 7px 29px 0px;
+  background-color: rgb(110, 206, 174);
+}
+body {
+  background-color: rgb(152, 88, 11);
+}
